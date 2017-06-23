@@ -22,4 +22,3 @@ new_image = Image.new("RGB", my_image.size) #Creates a new image that will be th
 new_image.putdata(recolored) #Adds the data from the recolored list to the image.
 new_image.show() #show the new image on the screen
 new_image.save("recolored.jpg", "jpeg") #save the new image as "recolored.jpg"
-Contact GitHub API Training Shop Blog About
