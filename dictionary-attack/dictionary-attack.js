@@ -15,5 +15,5 @@ window.onload = init;
 /* ADD YOUR CODE BELOW */
 
 function checkPassword() {
-
+  var pw = document.getElementById("pw").value.toLowerCase();
 }
