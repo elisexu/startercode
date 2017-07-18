@@ -5,7 +5,7 @@ import string
 f = open('countries.csv')
 data = f.read()
 
-# Split the data into an array of countries.
+# Split the data into an array of countries. The countries are already alphabetized for you!
 countries = data.split('\n')
 
 length = len(countries)
