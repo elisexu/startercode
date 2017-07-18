@@ -12,4 +12,6 @@ length = len(countries)
 print(countries[1])
 print(countries)
 
-# Start your search algorithm here.
+# START SEARCH ALGORITHM HERE
+# Take user input for a country they want to find, and use binary search to find that country. If the 
+# user enters a country that isn't in your list, your program should handle that accordingly.
